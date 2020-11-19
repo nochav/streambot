@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+	background: #6c826e;
+}
+
+.container{
+	font-family: arial;
+	display: grid;
+	grid-template-rows: 50% 50%;
+}
+
+.socials{
+	margin-left: 50px;
+	margin-top: 350px;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+#input{
+	border-radius: 3px;
+	background: #bfe3c2;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+#submit{
+	height: 25px;
+	background: #bfe3c2;
+}
+
+#verify_link{
+	margin-left: 50px;
+	margin-top: 10px;
+}
